@@ -539,7 +539,8 @@ Menampilkan kondisi ketika pengguna mencoba menghapus tempat yang masih digunaka
 menggunakan pembagian package untuk memisahkan tanggung jawab kode secara terstruktur
 
 
-<img width="516" height="655" alt="image" src="https://github.com/user-attachments/assets/804b30e0-21d0-4f31-b134-47c529d1a72b" />
+<img width="562" height="907" alt="image" src="https://github.com/user-attachments/assets/9c9456ac-afd0-41ef-806c-057e3a7daf37" />
+
 
 
 ---
@@ -557,12 +558,23 @@ Pengaturan pustaka dikelola otomatis menggunakan Maven dengan mendaftarkan drive
 Data awal disiapkan secara langsung pada database `db_gereja` melalui  SQL
 
 
-<img width="940" height="654" alt="image" src="https://github.com/user-attachments/assets/de7556b7-ba77-46e2-b5bd-0c6fc3a1e5af" /> 
+<img width="1475" height="1026" alt="Screenshot 2026-10-13 212222" src="https://github.com/user-attachments/assets/a6de1da0-aa0f-47db-aed3-0dfaa993981e" />
+
 
 
 ---
 
-## 13. Kesimpulan
+## 13. Menu Utama (ORM)
+
+<img width="748" height="475" alt="image" src="https://github.com/user-attachments/assets/e3176da3-9a7f-46b9-b4e0-509937299375" />
+
+
+Menampilkan seluruh daftar petugas gereja yang diambil dari database db_gereja
+
+
+---
+
+## 14. Kesimpulan
 
 Sistem Manajemen Jadwal Kegiatan Gereja merupakan program berbasis Java yang digunakan untuk membantu pengelolaan jadwal kegiatan, data petugas, dan tempat kegiatan gereja.
 
