@@ -557,7 +557,7 @@ Pengaturan pustaka dikelola otomatis menggunakan Maven dengan mendaftarkan drive
 Data awal disiapkan secara langsung pada database `db_gereja` melalui  SQL
 
 
-<img width="940" height="654" alt="image" src="https://github.com/user-attachments/assets/de7556b7-ba77-46e2-b5bd-0c6fc3a1e5af" />
+<img width="940" height="654" alt="image" src="https://github.com/user-attachments/assets/de7556b7-ba77-46e2-b5bd-0c6fc3a1e5af" /> 
 
 
 ---
