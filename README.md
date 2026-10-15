@@ -359,7 +359,7 @@ Bagian ini berisi dokumentasi hasil eksekusi program.
 ### 10.1 Menu Utama 
 
 
-<img width="1290" height="561" alt="image" src="https://github.com/user-attachments/assets/0822cd8f-4f36-4bec-b0d8-5c778ff18c3b" />
+<img width="397" height="140" alt="image" src="https://github.com/user-attachments/assets/cb4ac06a-c57d-4237-a2a3-8e0daa86e905" />
 
 
 
@@ -368,10 +368,9 @@ Menampilkan daftar kegiatan yang telah tersimpan pada sistem.
 
 ---
 
-### 10.2 Kelola Kegiatan - Lihat Data (UPDATE MINPRO 4)
+### 10.2 Kelola Kegiatan - Lihat Data (UPDATE MINPRO 4 JDBC)
 
-
-<img width="662" height="447" alt="image" src="https://github.com/user-attachments/assets/ed9f9043-ae4c-4057-a80c-60fd64819546" />
+<img width="662" height="447" alt="Screenshot 2026-10-14 084959" src="https://github.com/user-attachments/assets/48dbf6bf-4046-4552-bbb3-5c7c2c7f0b74" />
 
 
 berhasil memanggil driver JDBC, terhubung ke database db_gereja, dan menampilkan seluruh record data kegiatan dari MySQL
@@ -546,7 +545,7 @@ menggunakan pembagian package untuk memisahkan tanggung jawab kode secara terstr
 ---
 ### 11.1 Konfigurasi Maven (`pom.xml`)
 
-<img width="1917" height="700" alt="image" src="https://github.com/user-attachments/assets/665ae956-cff6-48f0-8f05-84ecfc26ecc1" />
+<img width="1917" height="700" alt="Screenshot 2026-10-14 084114" src="https://github.com/user-attachments/assets/002edd51-61af-4a4c-91b5-3822c95efb1c" />
 
 
 Pengaturan pustaka dikelola otomatis menggunakan Maven dengan mendaftarkan driver MySQL Connector/J
