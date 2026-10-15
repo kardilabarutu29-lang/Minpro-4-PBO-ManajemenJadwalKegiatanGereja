@@ -1,0 +1,3 @@
+config\HibernateUtil.class
+Manajemenkegiatan\dao\PetugasDAO.class
+Manajemenkegiatan\dao\PetugasDAOImpl.class
